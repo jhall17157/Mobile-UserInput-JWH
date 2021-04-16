@@ -1,0 +1,14 @@
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\bin\Debug\netstandard2.0\UserInput.deps.json
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\bin\Debug\netstandard2.0\UserInput.dll
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\bin\Debug\netstandard2.0\ref\UserInput.dll
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\bin\Debug\netstandard2.0\UserInput.pdb
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\UserInput.csprojAssemblyReference.cache
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\UserInput.AssemblyInfo.cs
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\UserInput.dll
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\ref\UserInput.dll
+C:\Users\hallj\source\repos\UserInput\UserInput\UserInput\obj\Debug\netstandard2.0\UserInput.pdb

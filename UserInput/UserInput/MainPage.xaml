@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UserInput.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Styling the editor and the entries with different forms of CSS-->
+            <Style TargetType="Editor" x:Key="editorStyle">
+                <Setter Property="TextColor" Value="Purple"></Setter>
+                <Setter Property="FontSize" Value="32"></Setter>
+            </Style>
+            <Style TargetType="Entry" x:Key="entryStyle">
+                <Setter Property="TextColor" Value="Red"></Setter>
+                <Setter Property="FontSize" Value="32"></Setter>
+            </Style>
+            
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <!--Allows for more than one component to be added to a page, in this case 2 labels, a slider, 2 entries and an editor-->
+        <Label Text="Acme Company" TextColor="Black" HorizontalOptions="CenterAndExpand" VerticalOptions="Center"></Label>
+        
+        <Label Text="Create User" HorizontalTextAlignment="Center" TextColor="Blue" FontSize="36"/>
+        <Slider x:Name="slider" Maximum="36" VerticalOptions="CenterAndExpand"></Slider>
+        <!--Creates a slider for the user to use-->
+        
+        <Entry Placeholder="Name" VerticalOptions="CenterAndExpand" Style="{StaticResource entryStyle}"></Entry>
+        <Entry Placeholder="Password" VerticalOptions="CenterAndExpand" IsPassword="True" Keyboard="Numeric"></Entry>
+        <!--Creates entries for a user, one with a traditional keyboard and the other numeric-->
+        <Editor Placeholder="Description" VerticalOptions="CenterAndExpand" AutoSize="TextChanges" Style="{StaticResource editorStyle}"></Editor>
+        <!--Creates an editor that allows a user to use multi-line input-->
+        
+       
+    </StackLayout>
+
+</ContentPage>
